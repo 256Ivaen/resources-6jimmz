@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://256Ivaen.github.io/resources-6jimmz/sitemap.xml
